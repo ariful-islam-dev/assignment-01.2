@@ -1,0 +1,4 @@
+11. cp
+The cp command is just a short way of telling your machine to copy a file or directory from one folder to another. It is among other de-facto Linux commands you can’t live without. You can copy multiple files to a directory right from your terminal with this neat command.
+12. mv
+Short for a move, it’s a supplement to the cut operation you perform in the GUI. Just like cp, you can use the mv command to move either single or multiple files from one location to another. You can force this Linux command to transfer large files with the -f parameter.
