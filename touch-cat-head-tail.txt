@@ -1,0 +1,10 @@
+7. touch
+The touch command is an essential Linux command for creating a valid empty file. You can create files on the go in your terminal and fill them up later or in real-time – based on your requirements. It’s also the go-to command for changing the timestamps.
+8. cat
+Designed initially for concatenating multiple files, the cat command is used for numerous other purposes since. This is among other Linux commands you will use to create new files, view file contents in the terminal, and redirect output to another command-line tool or file.
+
+9. head
+The head command allows you to view the beginning of a file or piped data directly from the terminal. It’s one of the most widely used Linux commands by users who works heavily with text processing. Use this command whenever you are going through a lot of files in the terminal to increase your productivity.
+
+10. tail
+A compliment to the previous command, chances are you will use the tail command much more than the header commands. A basic Linux terminal command, tail, mixed with cat and echo can do things you wouldn’t even imagine.
