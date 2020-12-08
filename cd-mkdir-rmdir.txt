@@ -1,0 +1,9 @@
+4. cd
+Short for Change Directory, the cd command is behind your movement from one directory to another. It’s one of the few Linux commands that you’re bound to use throughout your stint with the Linux system. This command makes life in front of the terminal less scary for beginners while providing a standard method to browse the entire filesystem of your device.
+
+5. mkdir
+Want to create a new folder through the terminal? The mkdir command is created for just this specific purpose. It lets you create folders anywhere you like in your Linux system – given you have got the necessary permission, of course!
+
+6. rmdir
+The arch rival of the mkdir command, the rmdir command allows you to delete specific folders from your system without any hassles. Although many utilize the rm command for this purpose, screwing up parameters or even a single character with rm can do things you wouldn’t even dream. So, stick with rmdir for now.
+
